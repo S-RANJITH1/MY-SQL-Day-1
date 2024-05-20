@@ -1,0 +1,1 @@
+Queries are Resolved using My SQL.
